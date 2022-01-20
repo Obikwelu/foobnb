@@ -1,16 +1,8 @@
 # foobnb
 
-A new Flutter project.
+Foobnb is a food social network
+![Crunch](https://user-images.githubusercontent.com/31783214/150320097-d7ebcc4b-608a-4ed8-8f63-8e87eb492f73.PNG)
 
-## Getting Started
+![Logo final 1](https://user-images.githubusercontent.com/31783214/150320135-7c00b207-bfa3-4ef9-9485-7e16d1d782e2.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Logo final](https://user-images.githubusercontent.com/31783214/150320138-28f45f3d-5f13-4505-a513-3dec2ee89f16.png)
